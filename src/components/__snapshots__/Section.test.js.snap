@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Section Component should be a section 1`] = `"<section>Hello World!</section>"`;
