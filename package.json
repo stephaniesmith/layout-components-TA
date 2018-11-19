@@ -1,0 +1,20 @@
+{
+  "name": "layout-components-TA",
+  "version": "1.0.0",
+  "description": "Layout Components ---",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephaniesmith/layout-components-TA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephaniesmith/layout-components-TA/issues"
+  },
+  "homepage": "https://github.com/stephaniesmith/layout-components-TA#readme"
+}
